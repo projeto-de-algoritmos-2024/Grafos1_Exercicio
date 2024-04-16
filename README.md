@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0088168  |  Guilherme Aguera |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2023805  | João Paulo Barros de Cristo |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
